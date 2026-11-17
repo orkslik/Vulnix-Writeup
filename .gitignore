@@ -1,0 +1,9 @@
+# Never publish SSH private keys or local secrets
+id_rsa
+id_ed25519
+*.pem
+*.key
+*.pcap
+*.pcapng
+*.log
+.DS_Store
